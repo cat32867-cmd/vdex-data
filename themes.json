@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "id": "synthwave",
+      "name": "SYNTHWAVE SUNSET",
+      "author": "VDEX_SP",
+      "vars": {
+        "--vx-primary": "#ff71ce",
+        "--vx-primary-dim": "#ff71ce1a",
+        "--vx-info": "#01cdfe",
+        "--vx-danger": "#ff2965",
+        "--vx-warn": "#fffb96",
+        "--bg-color": "#0d0221",
+        "--panel-color": "#16082e",
+        "--border-color": "#2b1055"
+      }
+    },
+    {
+      "id": "toxic",
+      "name": "TOXIC WASTE",
+      "author": "VDEX_SP",
+      "vars": {
+        "--vx-primary": "#b4ff00",
+        "--vx-primary-dim": "#b4ff001a",
+        "--vx-info": "#00ffa3",
+        "--vx-danger": "#ff5500",
+        "--vx-warn": "#ffe600",
+        "--bg-color": "#0a0f05",
+        "--panel-color": "#101a08",
+        "--border-color": "#24391a"
+      }
+    },
+    {
+      "id": "ice",
+      "name": "DEEP ICE",
+      "author": "Xal",
+      "vars": {
+        "--vx-primary": "#7dd8ff",
+        "--vx-primary-dim": "#7dd8ff1a",
+        "--vx-info": "#a5f3ff",
+        "--vx-danger": "#ff6b81",
+        "--vx-warn": "#ffd166",
+        "--bg-color": "#04101c",
+        "--panel-color": "#081a2c",
+        "--border-color": "#12314a"
+      }
+    }
+  ]
+    }
