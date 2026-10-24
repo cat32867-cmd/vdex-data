@@ -31,6 +31,15 @@
       }
     },
     {
+  "id": "cyber_rain",
+  "name": "CYBER RAIN",
+  "author": "VDEX_SP",
+  "effect": "cyberpunk",
+  "bg": "https://raw.githubusercontent.com/cat32867-cmd/vdex-data/main/bg/neon_city.jpg",
+  "bgOpacity": 0.25,
+  "vars": { "--vx-primary": "#ff71ce", "--vx-primary-dim": "#ff71ce1a", "--vx-info": "#01cdfe", "--vx-danger": "#ff2965", "--vx-warn": "#fffb96", "--bg-color": "#0d0221", "--panel-color": "#16082e", "--border-color": "#2b1055" }
+    },
+    {
       "id": "ice",
       "name": "DEEP ICE",
       "author": "Xal",
