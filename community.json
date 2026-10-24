@@ -1,0 +1,41 @@
+{
+  "themes": [
+    {
+      "id": "c_hyper_rain",
+      "name": "HYPER RAIN",
+      "author": "Kanikar",
+      "style": "hyperpunk",
+      "effect": "cyberpunk",
+      "uses": 42,
+      "bgOpacity": 0.3,
+      "vars": {
+        "--vx-primary": "#ff71ce",
+        "--vx-primary-dim": "#ff71ce1a",
+        "--vx-info": "#01cdfe",
+        "--vx-danger": "#ff2965",
+        "--vx-warn": "#fffb96",
+        "--bg-color": "#0d0221",
+        "--panel-color": "#16082e",
+        "--border-color": "#2b1055"
+      }
+    },
+    {
+      "id": "c_glitch_war",
+      "name": "GLITCH WAR",
+      "author": "t234",
+      "style": "glitchcore",
+      "effect": "glitchcore",
+      "uses": 17,
+      "vars": {
+        "--vx-primary": "#b4ff00",
+        "--vx-primary-dim": "#b4ff001a",
+        "--vx-info": "#00ffa3",
+        "--vx-danger": "#ff5500",
+        "--vx-warn": "#ffe600",
+        "--bg-color": "#0a0f05",
+        "--panel-color": "#101a08",
+        "--border-color": "#24391a"
+      }
+    }
+  ]
+}
