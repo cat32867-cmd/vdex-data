@@ -1,1 +1,1 @@
-wss://1be692fbe32ae9.lhr.life
+wss://vdex-node.serveo.net
