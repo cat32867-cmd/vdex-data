@@ -1,1 +1,1 @@
-wss://vdex-node.serveo.net
+wss://vdex-node.serveousercontent.com
